@@ -1,0 +1,60 @@
+text,label
+"HTML CSS JavaScript React Node.js",Web Developer
+"Frontend development with Bootstrap and JS",Web Developer
+"Building responsive websites with HTML CSS",Web Developer
+"MERN stack web development",Web Developer
+"React components and form handling",Web Developer
+
+"Flask backend REST API creation",Backend Developer
+"Django backend with ORM and authentication",Backend Developer
+"Building secure APIs with Python and Flask",Backend Developer
+"Database integration using Django ORM",Backend Developer
+"Python backend with JWT authentication",Backend Developer
+
+"Unity C# 3D game development",Game Developer
+"Character movement and physics in Unity",Game Developer
+"Blender 3D modeling for game assets",Game Developer
+"Unity animation and scripting basics",Game Developer
+"Game object creation and C# scripts",Game Developer
+
+"Python SQL PowerBI for dashboards",Data Analyst
+"Tableau visualization and business insights",Data Analyst
+"Data cleaning using Pandas and Excel",Data Analyst
+"SQL queries for reporting and analysis",Data Analyst
+"Statistical analysis with NumPy Pandas",Data Analyst
+
+"Python Pandas NumPy Machine Learning",Data Scientist
+"Building ML models with sklearn",Data Scientist
+"Data preprocessing and feature engineering",Data Scientist
+"Classification and regression algorithms",Data Scientist
+"Working with large datasets using Python",Data Scientist
+
+"Network security and penetration testing",Cyber Security Analyst
+"Ethical hacking and vulnerability scanning",Cyber Security Analyst
+"Working with firewalls and threat detection",Cyber Security Analyst
+"Security audits and risk assessment",Cyber Security Analyst
+"SIEM tools and incident response",Cyber Security Analyst
+
+"AWS EC2 S3 Lambda cloud deployment",Cloud Engineer
+"GCP compute engine and cloud functions",Cloud Engineer
+"Azure DevOps and cloud pipelines",Cloud Engineer
+"Managing cloud identity and access",Cloud Engineer
+"Cloud networking and VPC configuration",Cloud Engineer
+
+"Neural networks and deep learning",AI/ML Engineer
+"Model training using TensorFlow and PyTorch",AI/ML Engineer
+"Building classification models using ML",AI/ML Engineer
+"Feature engineering and hyperparameter tuning",AI/ML Engineer
+"Deploying ML models with Flask",AI/ML Engineer
+
+"CI/CD pipelines and Docker containers",DevOps Engineer
+"Monitoring using Grafana and Prometheus",DevOps Engineer
+"Kubernetes cluster management",DevOps Engineer
+"Infrastructure as Code using Terraform",DevOps Engineer
+"Automated deployment and version control",DevOps Engineer
+
+"Android development with Kotlin",Mobile App Developer
+"Flutter cross-platform mobile apps",Mobile App Developer
+"Building UI with Jetpack Compose",Mobile App Developer
+"REST API integration in mobile apps",Mobile App Developer
+"State management in Flutter",Mobile App Developer
